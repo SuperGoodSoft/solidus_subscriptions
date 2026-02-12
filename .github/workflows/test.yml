@@ -14,4 +14,4 @@ permissions:
 
 jobs:
   rspec:
-    uses: solidusio/solidus_dev_support/.github/workflows/test.yml@reusable-workflows
+    uses: solidusio/test-solidus-extension/.github/workflows/test.yml@main
